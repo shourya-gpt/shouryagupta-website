@@ -59,11 +59,13 @@ img {
 
 .bottom-cloud {
   position: absolute;
+  left: 20%;
+  top: 365px;
 }
 
 .top-cloud {
   position: absolute;
-  left: 62%;
+  left: 70%;
   top: 50px;
 }
 
