@@ -1,6 +1,7 @@
 .top-container {
   background-color: #B3E8E5;
   padding: 100px;
+  padding-bottom: 0;
 }
 
 h1 {
